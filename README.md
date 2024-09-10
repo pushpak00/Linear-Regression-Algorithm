@@ -1,3 +1,5 @@
+# Linear Regression Algorithm
+
 Linear regression is one of the simplest and most widely used algorithms in machine learning and statistics for predictive modeling. It is a supervised learning algorithm primarily used for predicting a continuous target variable based on one or more predictor variables (also called independent variables or features). Below is an in-depth explanation of the linear regression algorithm, covering its key concepts, mathematical formulation, assumptions, implementation, and practical considerations.
 
 ### 1. **Overview of Linear Regression**
